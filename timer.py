@@ -14,7 +14,7 @@ if timer < 5 and timer > 0:
             if seconds == 60:
                 miniutes = 1
                 if miniutes == 25:
-                    os.system('notify-send "time to eat tee!!"')
+                    os.system('notify-send "Time to have some tea or coffee and rest for a few minutes. Don't be tired"')
 else:
     os.system("clear")
     exit("Err: hour is not authentic")
