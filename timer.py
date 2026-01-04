@@ -13,7 +13,7 @@ if timer < 5 and timer > 0:
             print(seconds)
             time.sleep(1) # Delay
             if seconds == 60: # calculate miniutes
-                miniutes = 1
+                miniutes = miniutes + 1
                 if miniutes == 25: # Send Notf
                     os.system('notify-send "Time to have some tea or coffee and rest for a few minutes. Don't be tired"')
 else:
