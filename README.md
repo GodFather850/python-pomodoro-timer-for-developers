@@ -28,6 +28,17 @@ sudo apt install python3 # if not exists
 python3 timer.py
 ```
 ---
+# Simplifying the same code by doing the same thing
+```python
+import os
+import time
+
+while True:
+    os.system('notify-send "time to eat tee!!"')
+    time.sleep(1500)
+```
+**But this code is not accurate and does not have specific management.**
+---
 # -👤Created By GodFather 
 
 # -📜MTA Scripter • Linux Learner🐧 • Future DevOps Engineer 🇺🇸🔥
