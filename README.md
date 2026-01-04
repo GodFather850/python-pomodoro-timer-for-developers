@@ -41,7 +41,7 @@ while True:
 ---
 # -👤Created By GodFather 
 
-# -📜MTA Scripter • Linux Learner🐧 • Future DevOps Engineer 🇺🇸🔥
+# -📜MTA Scripter • Linux Learner🐧 • python Developer • Bash Scripter • Sql • Future DevOps Engineer 🇺🇸🔥
 ---
 **Topics:** 
 [#Bash](https://github.com/topics/bash) •
