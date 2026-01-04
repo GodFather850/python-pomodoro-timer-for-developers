@@ -34,7 +34,7 @@ import os
 import time
 
 while True:
-    os.system('notify-send "time to eat tee!!"')
+    os.system('notify-send "Time to have some tea or coffee and rest for a few minutes. Don't be tired"')
     time.sleep(1500)
 ```
 **But this code is not accurate and does not have specific management.**
