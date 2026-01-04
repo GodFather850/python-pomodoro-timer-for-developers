@@ -1,9 +1,11 @@
+![python](image-204-740x414.png)
+
 # python pomodoro timer for developers
 
 This post is about a Pomodoro timer script that was created specifically for developers so they can have a break between work. Stay tuned with us.
 
-
 ---
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # Features:
 1. Error Handling
 2. exact time
@@ -17,6 +19,7 @@ This post is about a Pomodoro timer script that was created specifically for dev
 This code connects to your Linux terminal and implements the Pomodoro Rule, preventing fatigue while working.
 
 ---
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # Run code:
 ```bash
 sudo apt install python3 # if not exists
@@ -25,4 +28,14 @@ sudo apt install python3 # if not exists
 python3 timer.py
 ```
 ---
-# 
+# -👤Created By GodFather 
+
+# -📜MTA Scripter • Linux Learner🐧 • Future DevOps Engineer 🇺🇸🔥
+---
+**Topics:** 
+[#Bash](https://github.com/topics/bash) •
+[#Linux](https://github.com/topics/linux) •
+[#Automation](https://github.com/topics/automation) •
+[#Python](https://github.com/topics/python)
+---
+![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
