@@ -15,7 +15,7 @@ if timer < 5 and timer > 0:
             if seconds == 60: # calculate miniutes
                 miniutes = miniutes + 1
                 if miniutes == 25: # Send Notf
-                    os.system('notify-send "Time to have some tea or coffee and rest for a few minutes. Don't be tired"')
+                    os.system('notify-send "Time to have some tea or coffee and rest for a few minutes. Dont be tired"')
 else:
     os.system("clear")
     exit("Err: hour is not authentic")
