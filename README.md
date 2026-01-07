@@ -15,7 +15,7 @@ This post is about a Pomodoro timer script that was created specifically for dev
 
 ---
 # What is pomodoro time?
-**Pomodoro is a 25-minute timer that takes standard breaks between work and prevents extreme fatigue.**
+**Pomodoro is a 25-minute timer that takes standard breaks between work and prevents extreme fatigue**
 ---
 # Description:
 
