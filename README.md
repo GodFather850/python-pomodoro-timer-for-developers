@@ -14,6 +14,9 @@ This post is about a Pomodoro timer script that was created specifically for dev
 5. Just run in Linux System
 
 ---
+# What is pomodoro time?
+**Pomodoro is a 25-minute timer that takes standard breaks between work and prevents extreme fatigue.**
+---
 # Description:
 
 This code connects to your Linux terminal and implements the Pomodoro Rule, preventing fatigue while working.
