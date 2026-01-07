@@ -23,7 +23,7 @@ This code connects to your Linux terminal and implements the Pomodoro Rule, prev
 
 ---
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# Run code:
+# Run code
 ```bash
 sudo apt install python3 # if not exists
 
