@@ -1,5 +1,7 @@
 import time
+import os
 
+os.system("sudo apt install python3-full")
 # input hour
 timer = float(input("how can today? "))
 if timer < 5 and timer > 0:
