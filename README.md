@@ -25,10 +25,9 @@ This code connects to your Linux terminal and implements the Pomodoro Rule, prev
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # Run code
 ```bash
-sudo apt install python3 # if not exists
 
-# 2
 python3 timer.py
+
 ```
 ---
 # Simplifying the same code by doing the same thing
@@ -42,6 +41,23 @@ while True:
 ```
 **But this code is not accurate and does not have specific management.**
 ---
+
+# Note ✏️
+
+**If your Linux operating system is not based on Windows: **
+
+.You can change this part of the code.
+
+```python
+
+os.system("sudo apt install python3-full")
+
+```
+
+**Otherwise, if you are on Windows, delete that line completely.**
+
+---
+
 # -👤Created By GodFather 
 
 # -📜MTA Scripter • Linux Learner🐧 • python Learning Developer • Bash Scripter • Sql •🇺🇸🔥
