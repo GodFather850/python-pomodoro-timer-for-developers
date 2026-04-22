@@ -1,6 +1,7 @@
 import time
 import os
 
+# Install Python For Linux If your OS is windows change this line please
 os.system("sudo apt install python3-full")
 # input hour
 timer = float(input("how can today? "))
